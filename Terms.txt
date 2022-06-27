@@ -1,0 +1,9 @@
+Expression - s a combination of items, like variables, literals, operators, and parentheses, that evaluates to a value. (Literally a math expression)
+
+Operator (arithmetic) - s a symbol that performs a built-in calculation (+ , - , / , *)
+
+Evaluate - An expression evaluates to a value, which replaces the expression. x = 8  ,  y = x + 9,  y = 17 
+
+Precedence - order of operations
+
+Floating-point - A floating-point number is a real number, like 98.6, 0.0001, or -666.667. The term "floating-point" refers to the decimal point 

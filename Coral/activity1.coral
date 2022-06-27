@@ -1,0 +1,7 @@
+integer x
+integer w
+integer y
+x = 4
+w = 2
+y = 3 * (x + 10 / w)
+Put y to output

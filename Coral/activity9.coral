@@ -1,0 +1,12 @@
+integer salaryPerYear 
+integer daysPerYear
+integer salaryPerDay
+
+salaryPerYear = Get next input
+daysPerYear = Get next input
+
+//If daysPerYear is 0, then divide by 0 causes program termination
+salaryPerDay = salaryPerYear / daysPerYear
+
+Put "Salary per day is " to output
+Put salaryPerDay to output
